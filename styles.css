@@ -1,0 +1,1 @@
+body{display:flex;margin:0;font-family:Arial}aside{width:300px;padding:10px}main{flex:1;height:297mm;padding:20mm}.goodhome{font-family:Arial}.ips{font-family:Verdana}.prices{display:flex;gap:40px}.was{text-decoration:line-through}.header{padding:10px;font-weight:bold}@media print{aside{display:none}}
